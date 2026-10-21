@@ -1,6 +1,6 @@
-📜 Certificado de Conclusão de Curso - IFMG
+📜 Certificados de Conclusão de Curso - IFMG
 
-Este repositório armazena o meu certificado de conclusão de curso obtido através da plataforma MAIS IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais).
+Este repositório armazena o meus certificados de conclusão de curso obtidos através da plataforma MAIS IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais).
 
 📋 Informações do Curso
 
@@ -13,6 +13,7 @@ Status: Concluído ✅
 📂 Estrutura do Repositório
 
 ├── Programação_para_dispositivos_móveis_(básico).pdf    # Documento oficial do certificado
+├── Programação_para_dispositivos_móveis_(avançado).pdf    # Documento oficial do certificado
 └── README.md          # Este arquivo de apresentação
 
 
